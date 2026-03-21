@@ -215,26 +215,127 @@ Research and validate realistic strategies to turn $100 into $10,000 with minima
 
 ---
 
-#### NEW IDEAS (Micro-SaaS Agent — pending results)
-- Micro-SaaS products
-- Digital products (templates, courses)
-- AI-leveraged freelancing
-- Wild card opportunities
+#### NEW IDEA: Micro-SaaS (NEW — from Session 2 research)
 
-*(Results to be added when agent completes)*
+**Market:**
+- Micro-SaaS segment growing 30% annually: $15.7B (2024) → projected $59.6B
+- Global SaaS market: $399B (2024) → $819B projected
+
+**The $0 Tech Stack ("Golden Stack"):**
+- Next.js + Supabase (DB/auth) + Stripe (payments) + Vercel (hosting) + Tailwind/Shadcn
+- Total cost: **$0/month to start**, <$50/month to $100K ARR
+- Free tiers support real businesses. First paid upgrade at ~60-100 customers (Supabase Pro $25/mo)
+- AI coding tools (Cursor, Claude Code) cut dev time 3-5x
+
+**Proven Examples:**
+- One indie hacker built $28K/mo portfolio of SaaS products
+- Senja.io (testimonial tool) grew to $1M ARR as micro-SaaS
+- Reddit user created tool to find best Reddit posting times → organic traffic
+- "10 Boring Micro-SaaS Ideas That Earn $2,000/Month Without The AI Hype"
+
+**Top Micro-SaaS Niches (2026):**
+- AI-powered niche tools (not generic — specific vertical applications)
+- Simplified social media SaaS for mom-and-pop shops (Buffer/Hootsuite too complex)
+- Cross-platform freelancer reputation aggregation
+- Dish-level restaurant reviews (rate dishes, not restaurants)
+
+**Feasibility Assessment:**
+- Startup: $0-20 (domain only) | AI autonomy: 8/10 (Claude can build the product)
+- Time to first revenue: 2-4 months | Time to $10K: 6-12 months
+- Risk: Medium (building something nobody wants)
+- Key: validate before building. Talk to users first.
+
+---
+
+#### NEW IDEA: Digital Products (Templates, Courses)
+
+**What's Selling (2026):**
+- Online courses, ebooks, templates, digital art, software, subscriptions
+- One creator: $110K/month selling digital products
+- Another: $15K selling on Gumroad in 2025; $14K+ from ebooks alone
+- Top Etsy digital template earners: $30K+/month; others steady at $1K+/month
+
+**Notion Templates:**
+- Still profitable but getting more competitive
+- Sell on Gumroad (10% fee), Lemon Squeezy (5% + $0.50), or Whop (500K monthly visitors)
+- Figma paid community CLOSED to new creators (May 2025) — use 3rd party platforms
+- Price range: $10-30 per template
+
+**Online Courses (2026):**
+- Global e-learning: $399B (2022) → $764B by 2030, 14% CAGR
+- Platforms: Teachable, Udemy, Whop, Mighty Networks
+- AI-related courses in high demand
+
+**Feasibility Assessment:**
+- Startup: $0-30 | AI autonomy: 7/10
+- Time to first revenue: 2-8 weeks | Time to $10K: 6-18 months
+- Risk: Low (but crowded). Niche specificity is key.
+
+---
+
+#### NEW IDEA: AI-Leveraged Freelancing
+
+**The Landscape (2026):**
+- AI has CUT average freelance rates by 30% — but top earners fight back with specialization
+- $2.6 trillion invested in AI technologies; massive skills shortage
+- AI freelancing = one of fastest paths to income
+
+**Top AI Freelance Services:**
+1. AI-Enhanced Content Creation — marketing funnels, SEO, email sequences
+2. Prompt Engineering & Consulting — industry-specific (legal, medical, marketing) commands premium
+3. AI Automation & Agent Building — overlaps heavily with Idea #1
+4. Custom AI Model Adaptation — fine-tuning/embeddings for company data
+5. AI-Powered Lead Generation
+
+**Rate Reality:**
+- AI cut generalist rates 30%, but specialists command premiums
+- "Most lucrative: combining domain expertise + AI tool skills, focusing on measurable business outcomes"
+- Best platforms: Upwork, Fiverr, Toptal, direct outreach
+
+**Feasibility Assessment:**
+- Startup: $0-20 (AI subscription) | AI autonomy: 9/10
+- Time to first revenue: 1-4 weeks | Time to $10K: 3-8 months
+- Risk: Medium (rate pressure from AI commoditization)
+- Key: specialize or die. "AI-augmented freelancer for [specific industry]" beats "I use AI"
+
+---
+
+#### Wild Card Ideas from Reddit (2026)
+
+- **Chatbot building for small businesses** — Reddit consensus: highest-dollar AI side hustle. $500-2,000/project + $200-500/mo maintenance.
+- **Faceless YouTube channels** — $800-2,500/month from AdSense after 6-9 months
+- **Dish-level restaurant reviews app** — geo-tagged + AI moderation + TikTok cross-posting
+- **Simplified social media SaaS** — for tech-shy small business owners
+- **Flipping/reselling** — Reddit perennial favorite, thrift stores → eBay/Facebook Marketplace
+
+---
 
 #### Session 2 Key Insights
 1. **Automation-as-a-Service strengthened as #1** — real client stories, clear playbook, provable ROI
-2. **Data Products viable but distribution-dependent** — pair with community or consulting for flywheel
-3. **Skill Stacking is slowest path** — credibility gap is real without prior experience
-4. **Vertical specialization is THE differentiator** across all ideas
-5. **Reddit is a proven client acquisition channel** for automation services
+2. **Micro-SaaS is a strong new contender** — $0 tech stack, 30% market growth, high AI leverage
+3. **AI-Leveraged Freelancing is fastest to first dollar** — but rate pressure is real
+4. **Data Products viable but distribution-dependent** — pair with community or consulting for flywheel
+5. **Skill Stacking is slowest path** — credibility gap is real without prior experience
+6. **Vertical specialization is THE differentiator** across ALL ideas
+7. **Reddit is a proven client acquisition channel** for automation services
+8. **The "Golden Stack" (Next.js + Supabase + Vercel + Stripe) = $0 to launch**
+
+#### Updated Rankings After Session 2
+
+| Rank | Idea | Change | Rationale |
+|------|------|--------|-----------|
+| 1 | Automation-as-a-Service | — | Strongest evidence, clear playbook |
+| 2 | Micro-SaaS | NEW | $0 stack, 30% growth, high AI leverage |
+| 3 | AI-Leveraged Freelancing | NEW | Fastest to revenue, but rate pressure |
+| 4 | Data Products | ↓1 | Distribution bottleneck remains |
+| 5 | Digital Products | NEW | Proven but crowded |
+| 6 | Skill Stacking | ↓2 | Slowest, credibility gap |
 
 #### Next Steps for Session 3
-- [ ] Compile micro-SaaS/digital product/freelancing findings
+- [ ] Create Week 1 execution plan for top 3
 - [ ] Research specific automation demo workflows to build
-- [ ] Identify exact vertical to target (dental? legal? restaurants?)
-- [ ] Map out Week 1 execution plan for the top pick
-- [ ] Explore "combo strategies" — e.g., automation + data product for same vertical
+- [ ] Identify exact micro-SaaS idea to validate
+- [ ] Explore "combo strategies" — automation + micro-SaaS for same vertical
+- [ ] Stress-test new ideas (micro-SaaS, freelancing) with qualification agent
 
 ---
