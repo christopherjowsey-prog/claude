@@ -75,10 +75,34 @@ Research and validate realistic strategies to turn $100 into $10,000 with minima
 - **Most Passive:** Affiliate Stacking (#7) + Niche Community (#1) — compounds over time
 - **Lowest Risk:** Skill Stacking (#8) + Event Arbitrage (#5) — zero startup cost
 
+#### Qualification Results (Stress Test)
+
+**Qualification agent ran critical analysis with web-validated counterpoints.**
+
+| Idea | Adjusted Score | Verdict | Key Concern |
+|------|---------------|---------|-------------|
+| Automation-as-a-Service | 6/10 | GO | Must niche vertically. Generic = saturated. |
+| Data Products | 5/10 | MAYBE | Distribution is bottleneck, not creation. Legal risk. |
+| Skill Stacking | 5/10 | MAYBE | Credibility gap — certs alone don't command $100+/hr |
+| AI Agent Services | 5/10 | MAYBE | 95% of AI projects fail. Demo ≠ production. |
+| Niche Community | 4/10 | MAYBE | OpenAlternative story is misleading (dev selling to devs) |
+| Event Arbitrage | 3/10 | SKIP | Needs existing audience of 2,000+. 40% no-show rates. |
+| Affiliate Stacking | 3/10 | SKIP | Google AI Overviews killing affiliate SEO. 71% sites hit. |
+| Digital Real Estate | 2/10 | SKIP | Google March 2026 update destroyed thin sites. Dead model. |
+
+**Key data points from qualification:**
+- Median side hustler earns $200/month; only 10.5% break $1,000/month
+- 69% of publishers say Google AI Overviews reducing their traffic
+- 95% of corporate AI projects fail (MIT data)
+- "I automate things" is dead. "I automate intake workflows for immigration law firms" is alive.
+- n8n has license restrictions on commercial resale
+
 #### Next Steps for Session 2
 - [ ] Retry mainstream ideas research (digital products, micro-SaaS, freelancing)
-- [ ] Deep-dive into top 3 from qualification agent
-- [ ] Research specific niches/markets for the top picks
-- [ ] Find step-by-step execution playbooks for top ideas
+- [ ] Deep-dive: Best verticals for Automation-as-a-Service
+- [ ] Deep-dive: Highest-demand B2B data product niches
+- [ ] Deep-dive: Best free cert combos for skill stacking consulting
+- [ ] Research step-by-step execution playbooks for top 3
+- [ ] Look for "combo strategies" — pairing ideas for faster results
 
 ---
